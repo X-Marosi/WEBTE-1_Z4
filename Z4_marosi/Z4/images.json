@@ -1,0 +1,100 @@
+[
+  {
+    "filename": "pic_1.jpg",
+    "title": "Kyoto Landscape",
+    "description": "Landscape photo in Kiyomizu-dera, Fall",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_1.jpg"
+  },
+  {
+    "filename": "pic_2.jpg",
+    "title": "Eikan-do Temple",
+    "description": "Fall leaves at Eikan-do Temple.",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_2.jpg"
+  },
+  {
+    "filename": "pic_3.jpg",
+    "title": "Kiyomizudera Shrine",
+    "description": "Overview of the Kiyomizudera Shrine at Fall\"",
+    "location": "Kyo, Japan",
+    "path": "./images/pic_3.jpg"
+  },
+  {
+    "filename": "pic_4.png",
+    "title": "Night Street",
+    "description": "Night view of a street in Osaka",
+    "location": "Osaka, Japan",
+    "path": "./images/pic_9.jpg"
+  },
+  {
+    "filename": "pic_5.jpg",
+    "title": "Sakura-Dōri at Kabukichō",
+    "description": "Neon street signs at Sakura-Dōri in Kabukichō - Shinjuku the Red Light District of Tokyo",
+    "location": "Tokyo, Shinjuku, Japan",
+    "path": "./images/pic_5.jpg"
+  },
+  {
+    "filename": "pic_6.jpg",
+    "title": "Neon Night",
+    "description": "Street view of Hyakkendana Street in Shinjuku",
+    "location": "Tokyo, Shinjuku, Japan",
+    "path": "./images/pic_6.jpg"
+  },
+  {
+    "filename": "pic_7.jpg",
+    "title": "Meguro River",
+    "description": "About 800 cherry trees line Meguro River, Spring",
+    "location": "Tokyo, Japan",
+    "path": "./images/pic_7.jpg"
+  },
+  {
+    "filename": "pic_8.png",
+    "title": "Hamamatsu Castle",
+    "description": "View of the Hamamatsu Castle in Hamamatsu, Osaka",
+    "location": "Osaka, Japan",
+    "path": "./images/pic_8.png"
+  },
+  {
+    "filename": "pic_9.jpg",
+    "title": "Kinkaku-ji Temple",
+    "description": "The Golden Pavilion at Kinkaku-ji Temple during Winter",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_4.png"
+  },
+  {
+    "filename": "pic_12.jpg",
+    "title": "Monkey",
+    "description": "One of the many monkeys at the Fushimi Inari Shrine",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_12.jpg"
+  },
+  {
+    "filename": "pic_10.png",
+    "title": "Visions of Kyoto",
+    "description": "Picture of the big gate on to the Fushimi Inari Shrine in Kyoto",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_10.png"
+  },
+  {
+  "filename": "pic_11.jpg",
+  "title": "Bamboozled",
+  "description": "On the road to the top of Fushimi Inari Shrine in Kyoto",
+  "location": "Kyoto, Japan",
+  "path": "./images/pic_11.jpg"
+  },
+  {
+    "filename": "pic_14.jpg",
+    "title": "Carriage Ride",
+    "description": "An authentic carriage ride in Kyoto",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_14.jpg"
+  },
+  {
+    "filename": "pic_13.jpg",
+    "title": "Bartender",
+    "description": "A bartender at work in a Kyoto pub",
+    "location": "Kyoto, Japan",
+    "path": "./images/pic_13.jpg"
+  }
+]

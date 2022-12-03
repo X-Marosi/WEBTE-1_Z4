@@ -1,0 +1,62 @@
+
+.h1 {
+    font-family: "Microsoft JhengHei Light", sans-serif;
+}
+body {
+    margin-top: 40px;
+    padding: 0;
+    background-color: #eaeaea;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+.line {
+    border-bottom: 1px solid #343434;
+    margin: 40px 0;
+    max-width: 600px;
+}
+a{
+    color: #343434;
+}
+a:hover{
+    color: #343434;
+    transition: 0.3s;
+    transform: scale(1.2);
+}
+.search {
+    border-radius: 0;
+    border: 0;
+    background-color: #eaeaea;
+    width: 40%;
+    height: 35px;
+}
+.search:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.search:focus {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+#section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 25px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+#section img {
+    max-height: 386px;
+    max-width: 1000px;
+    object-fit: cover;
+    transition: 0.3s;
+}
+
+
+section img:hover {
+    transform: perspective(200px) rotate3D(2, 0, -1, 2deg) scale(0.8);
+    cursor: pointer;
+}
+
